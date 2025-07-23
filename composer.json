@@ -15,7 +15,8 @@
         "component": {
             "files": [
                 "css/animate.css",
-                "css/animate.min.css"
+                "css/animate.min.css",
+                "css/animate.compat.css"
             ]
         }
     }
